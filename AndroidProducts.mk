@@ -1,1 +1,1 @@
-PRODUCT_MAKEFILES := $(LOCAL_PATH)/omni_milletwifi.mk
+PRODUCT_MAKEFILES := device/samsung/milletwifi/omni_milletwifi.mk
